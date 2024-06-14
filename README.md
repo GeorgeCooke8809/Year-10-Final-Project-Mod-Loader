@@ -1,1 +1,2 @@
 # Year-10-Final-Project-Mod-Loader
+To make mods, add songs in database file (Songs.db) which can be opened in DB Browser For SQL Lite. Then for each song amke a folder in the Songs directory entitled the row ID of the song in the database. IN that folder put the album cover with the title "Cvr.png" and a 5 second clip from the song entitled "Aud.mp3". make sure the formats are correct. To run, open the .py file and follow the instructions.
